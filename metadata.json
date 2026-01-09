@@ -1,0 +1,8 @@
+{
+  "name": "Guidely - Geleceğini Şekillendir",
+  "description": "Kişilik analizleri, üniversite filtreleme, sektör karşılaştırmaları ve akademik kaynaklarla öğrencilere rehberlik eden kapsamlı eğitim platformu.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
